@@ -21,3 +21,6 @@ cov*/
 transcript*
 sc_dpiheader.h
 vsim.dbg
+
+# ignore project
+all-gates-verilog.mpf
